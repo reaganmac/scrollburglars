@@ -70,6 +70,7 @@ a {
 
 .main-article {
   padding: 0 12px;
+  overflow: hidden;
 }
 
 .site-header ul {
